@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nanang.jobs@gmail.com)
 ![](https://komarev.com/ghpvc/?username=suryakencana007&color=blue&style=flat-square&label=Profile+visitors)
 
-- 🔭 I’m currently working on **Warung Pintar as Tech Lead** and self-employee contibute at kubuskotak.dev
+- 🔭 I’m currently working on **Warung Pintar as Tech Lead** and self-employee contribute at kubuskotak.dev
 - 🌱 I’m currently learning distributed system and domain-driven design, architecture design system enthusiast
 
 **Languages and Tools:** 
