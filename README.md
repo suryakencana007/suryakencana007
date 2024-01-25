@@ -1,7 +1,7 @@
 ## Hello, Everyone! 👋
 
 ### Hi, I am Nanang Suryadi 👋
-My name is **Nanang Suryadi**. I'm a Software Engineer with excellent Software Architecture knowledge and Product Development and over 10 years of practical experince.
+My name is **Nanang Suryadi**. I'm a Software Engineer with excellent Software Architecture knowledge and Product Development and over 10 years of practical experience.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/suryakencana007)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nanang.ask/)
